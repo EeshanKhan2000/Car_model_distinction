@@ -18,3 +18,4 @@ This was also a personal exploration of Imageai, which makes using pre-trained m
 extremely simple, which would otherwise involve multiple steps.
 
 Training was carried out for 50 epochs, after which validation accuracy was 83 %
+![Training and Validation](https://github.com/EeshanKhan2000/Car_model_distinction/blob/master/Accuracy%26Loss.PNG)
